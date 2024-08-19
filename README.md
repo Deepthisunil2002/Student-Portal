@@ -20,6 +20,7 @@ input. Attributes within tags offer additional information about elements,
 enhancing the functionality and interactivity of web pages. Overall, HTML
 is the foundation of web development, enabling the creation of structured
 and accessible web content.
+
 2. CSS
 
 CSS (Cascading Style Sheets) is a stylesheet language used to describe the
@@ -32,6 +33,7 @@ to target and style specific elements, and it supports responsive design
 through media queries to ensure web pages look good on various devices.
 Overall, CSS is essential for creating visually appealing and user-friendly
 websites.
+
 3. JavaScript
 
 JavaScript is a versatile, high-level programming language primarily used
@@ -45,6 +47,7 @@ and functional programming. JavaScript's extensive ecosystem, including
 libraries and frameworks like React, Angular, and Vue, enhances its
 capabilities, making it essential for modern web development.
 BACKEND DEVELOPMENT
+
 4.PYTHON
 
 Python is a high-level, interpreted programming language known for its
@@ -71,8 +74,8 @@ diverse applications. Its straightforward syntax and dynamic typing make
 it accessible to beginners while remaining powerful for advanced
 developers, positioning Python as one of the most popular languages for
 both beginners and experienced programmers alike.
-95.FLASK
-Figure 3.5
+
+5.FLASK
 Flask, a lightweight and versatile web framework for Python, empowers
 developers to quickly build web applications with minimal setup and
 straightforward syntax. Known for its simplicity and flexibility, Flask
@@ -83,6 +86,7 @@ applications, Flask's ease of learning and robust community support
 makes it a preferred choice among developers seeking a streamlined yet
 powerful tool for web development in Python.
 10DATABASE
+
 6.MySQL
 
 MySQL is an open-source relational database management system (RDBMS)
