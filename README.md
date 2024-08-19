@@ -7,7 +7,9 @@ The Student Web Portal is a user-friendly platform designed to centralize
 essential academic resources and enhance the educational experience for
 students. This portal aims to streamline communication, provide easy
 access to information, and foster a sense of community among students.
+
 FRONTEND DEVELOPMENT
+
 1. HTML
 
 HTML (HyperText Markup Language) is the standard language for creating
@@ -46,6 +48,7 @@ various programming paradigms, including procedural, object-oriented,
 and functional programming. JavaScript's extensive ecosystem, including
 libraries and frameworks like React, Angular, and Vue, enhances its
 capabilities, making it essential for modern web development.
+
 BACKEND DEVELOPMENT
 
 4.PYTHON
@@ -86,7 +89,7 @@ extensions. Whether creating small projects or scaling up to larger
 applications, Flask's ease of learning and robust community support
 makes it a preferred choice among developers seeking a streamlined yet
 powerful tool for web development in Python.
-10DATABASE
+
 
 6.MySQL
 
