@@ -76,6 +76,7 @@ developers, positioning Python as one of the most popular languages for
 both beginners and experienced programmers alike.
 
 5.FLASK
+
 Flask, a lightweight and versatile web framework for Python, empowers
 developers to quickly build web applications with minimal setup and
 straightforward syntax. Known for its simplicity and flexibility, Flask
